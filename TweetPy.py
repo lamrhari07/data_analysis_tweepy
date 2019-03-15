@@ -5,11 +5,11 @@ from textblob import TextBlob
 
 str_input = input("Enter HERE: ")
 
-consumer_key = 'p2bh13NnicTppGvr8jhcvqjY2'
-consumer_secret = 'hDaHufKh2l4NkAhfZfyz0bYLsqnKJQW3fnInPkxoVqMo4jaCGu'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '971936335-wXGV3GDS2bYV69vK4yqmW1ApKQYNtpktTJuUnhht'
-access_token_secret = 'UU278HqoBdf8NDe1y6BIWwxYhiUZOjvpG2R9xux1j4Mte'
+access_token = ''
+access_token_secret = ''
 
 
 auth = tweepy.OAuthHandler (consumer_key, consumer_secret)
